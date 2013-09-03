@@ -107,6 +107,8 @@ Mitglieder des Studierendenparlaments können außerhalb von Debatten und Abstim
 
 (2) Das Protokoll ist ein Ergebnisprotokoll und enthält die Tagesordnung, die Anwesenheitsliste, die gestellten Anträge und deren Abstimmungsergebnisse. Nach Ermessen des Präsidiums können einzelne Argumente und Aussagen, die während der Sitzung geäußert werden, in das Protokoll aufgenommen werden. Der Protokollant/die Protokollantin hat das Protokoll zu unterzeichnen.
 
+(3) Öffentliche Teile der Sitzung sollen, wenn möglich, in Echtzeit über ein Streaming-Medium und ein öffentliches Protokoll verfolgt werden können. Audio- und Videoaufzeichnungen sind generell zulässig, sofern kein Mitglieder des Studierendenparlaments eine Abstimmung darüber fordert. 
+
 
 ## § 14 Anträge zur Geschäftsordnung
 
